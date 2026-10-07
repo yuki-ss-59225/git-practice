@@ -1,2 +1,2 @@
-n = "Yoshimi"
+n = "Yuki"
 print("こんにちわ、" + n + "さん！")
