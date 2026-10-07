@@ -3,5 +3,5 @@ import time
 start = time.time()
 time.sleep(1)
 end = time.time()
-d = end - start
-print("Elapsed:", d)
+duration = end - start
+print("Elapsed:", duration)
